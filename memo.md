@@ -44,20 +44,6 @@ console.log(turn.items);
   - １ターン分
 
 
-# 情報収集エージェント
 
-## codex cli sdk 概要復習
-
-## 作るもののイメージ
-
-## ver1プロンプトで対応版
-
-## ver2 ワークフロー版
-
-## ver3 GitHub Actions
-
-### gh comanndの作成
-
-## トークン使用量、回答の安定性(主観)等の比較
 
 
